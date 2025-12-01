@@ -1,18 +1,16 @@
-# Expense Manager with Split Feature
+# expenses
 
-A modern **Flutter app** to track daily expenses with a built-in **split calculator**. Easily add, delete, and manage expenses — and split any amount **equally or custom** among multiple people.  
-Built using **Flutter**, **Cubit state management**, and fully responsive for **portrait & landscape** layouts.
+A new Flutter project.
 
----
+## Getting Started
 
-## 📱 Features
+This project is a starting point for a Flutter application.
 
-- **Add Expense**: Enter name, amount, and currency.
-- **Delete Expense**: Swipe or tap delete with confirmation snackbar.
-- **Split Expense**: 
-  - Equal split among N people
-  - Custom split with individual contributions
-  - Validation ensures total contributions do not exceed the expense
-- **Responsive UI**: Grid view for wide screens, list view for narrow/portrait
-- **Smooth Animations**: Dialogs and bottom sheets for better UX
-- **Modern UI**: Material 3 design with gradients, icons, and neat layouts
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
